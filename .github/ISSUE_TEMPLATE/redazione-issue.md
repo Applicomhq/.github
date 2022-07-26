@@ -1,3 +1,12 @@
+---
+name: Redazione issue
+about: Usare per nuove features. Non usare per segnalare bug
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## Introduzione
 _(Se utile/necessaria a dare un contesto, altrimenti rimuovere)_  
 _(Eventualmente incollare richiesta originale pervenuta, con eventuali screenshot; se troppo lunga o troppi screenshot, si può creare in un issue separato linkato da questo)_
