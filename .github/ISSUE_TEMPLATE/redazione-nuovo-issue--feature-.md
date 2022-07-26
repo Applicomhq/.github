@@ -13,7 +13,7 @@ _(Se utile/necessaria a dare un contesto, altrimenti rimuovere)_
 _(Eventualmente incollare richiesta originale pervenuta, con eventuali screenshot; se troppo lunga o troppi screenshot, si può creare in un issue separato linkato da questo)_
 
 ## Info
-- Tipo: (Nuova feature / Miglioria feat esistente / Difetto)
+- Tipo: (Nuova feature / Miglioria feat esistente)
 - Origine richiesta: ____
 - Documenti allegati: (link oppure n/a)
 - Stima in ore/giorni:  ____
