@@ -9,15 +9,15 @@ assignees: ''
 ---
 
 ## Introduzione
-_(Se utile/necessaria a dare un contesto, altrimenti rimuovere)_  
-_(Eventualmente incollare richiesta originale pervenuta, con eventuali screenshot; se troppo lunga o troppi screenshot, si può creare in un issue separato linkato da questo)_
+_(Se utile/necessaria a dare un contesto, altrimenti rimuovere la sezione introduzione)_  
+_(Eventualmente incollare la richiesta originale pervenuta, con eventuali screenshot; se troppo lunga o troppi screenshot, si può creare in un issue separato linkato da questo)_
 
 ## Info
 - Tipo: (Nuova feature / Miglioria feat esistente)
 - Origine richiesta: ____
 - Documenti allegati: (link oppure n/a)
 - Stima in ore/giorni:  ____
-- Branch: ____  
+- Branch: _(indicare se va creato un nuovo branch a partire da quale branch. Guida per il nome dei branch è qui: https://docs.google.com/document/d/1NsfZSZI7-yoeeVFIMN30ohtj3BxrQb97alRpaX0ms4U/edit?usp=sharing)_
 - [ ] Issue aggiunto al progetto
 
 ## Descrizione dettagliata
@@ -29,7 +29,7 @@ _(qui si scompone il da farsi in passetti elementari)_
 - [ ] fare quello
 
 ## Domande da fare al cliente
-_(Se si aggiunge una domanda, l'issue va passato allo stato 'Issue chiedere al cliente')_
+_(Se si aggiunge una domanda, l'issue va passato allo stato 'Issue chiedere al cliente'.)_
 - [ ] Domanda 1
 - [ ] Domanda 2
 
@@ -38,4 +38,4 @@ _(Se si aggiunge una domanda, l'issue va passato allo stato 'Issue chiedere al c
 - [ ] Test 2
 
 ## Rilascio
-_(Indicare se va modificato un rilascio esistente (e linkare quale) o se va creato un rilascio nuovo)_
+_(Indicare se va modificato un rilascio esistente (e linkare quale) o se va creato un rilascio nuovo.)_
